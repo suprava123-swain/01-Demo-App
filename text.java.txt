@@ -1,0 +1,5 @@
+public class Text{
+
+     public sataic void main(String[] args){
+}
+}
